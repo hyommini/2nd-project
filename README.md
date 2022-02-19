@@ -8,13 +8,13 @@
 <br>       
            
 ### 📖&nbsp; 2.소스코드
-  * [model]
-  * [view]
-  * [controller]
-  * [sql]
+  * [model](2nd-project/HelloWorld/src/com/helloworld/vo/)
+  * [view](2nd-project/HelloWorld/WebContent/)
+  * [controller](2nd-project/HelloWorld/src/com/helloworld/controller/)
+ 
 <br><br>
 ### 💾&nbsp; 3.구현ERD
-![Copy of 숙박](https://user-images.githubusercontent.com/68181461/145971710-9c5a4995-483d-4502-ab8d-f8222e6eba68.png)
+![2차프로젝트_1조_HelloWorld_DB_ERD](https://user-images.githubusercontent.com/88658331/154787008-ea39ecf4-144f-4885-9a86-270f770d0d91.png)
 <br><br>
 
 ### 💻&nbsp; 4. 사용기술
@@ -26,5 +26,12 @@
 <br>
 <br>
 <br>
-<h2 id="시연영상"> 🎞 대표기능 시연영상 </h2>
+<h2 id="시연"> 🎞 구현기능 시연 </h2>
+#### 5-1 로그인 기능 
+![image011](https://user-images.githubusercontent.com/88658331/154787526-74a58011-72fe-4923-ab74-d04fa9e30026.png)
+#### 5-2 방 상세보기, 결제
+![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
+#### 5-3 예약할 방 조회
+![image033](https://user-images.githubusercontent.com/68181461/145716997-a2fc0c90-2773-4916-8513-255f9eb161f0.gif)
+
 
