@@ -28,7 +28,7 @@
 <br>
 <h2 id="시연"> 🎞 구현기능 시연 </h2>
 #### 5-1 로그인 기능 
-![image011](https://user-images.githubusercontent.com/88658331/154787526-74a58011-72fe-4923-ab74-d04fa9e30026.png)
+![image011](https://user-images.githubusercontent.com/88658331/154787526-74a58011-72fe-4923-ab74-d04fa9e30026.png)<br>
 #### 5-2 방 상세보기, 결제
 ![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
 #### 5-3 예약할 방 조회
