@@ -27,11 +27,12 @@
 <br>
 <br>
 <h2 id="시연"> 🎞 구현기능 시연 </h2>
-#### 5-1 로그인 기능 
-![image011](https://user-images.githubusercontent.com/88658331/154787526-74a58011-72fe-4923-ab74-d04fa9e30026.png)<br>
-#### 5-2 방 상세보기, 결제
-![image022](https://user-images.githubusercontent.com/68181461/145716568-ce98a554-724b-48bb-af5c-97a29df45166.gif)
-#### 5-3 예약할 방 조회
-![image033](https://user-images.githubusercontent.com/68181461/145716997-a2fc0c90-2773-4916-8513-255f9eb161f0.gif)
-
+ 5-1 로그인 기능 
+<img width="705" alt="helloworld-login" src="https://user-images.githubusercontent.com/88658331/154787784-c7a8e1cb-d834-485f-8b8b-75b5de142690.png">
+ 5-2 today, total 
+<img width="717" alt="helloworld-home-today" 
+                src="https://user-images.githubusercontent.com/88658331/154787887-476be122-b18c-421e-929f-3c439cc84994.png">
+ 5-3 프로필 조회, 수정
+<img width="736" alt="helloworld-profile" 
+     src="https://user-images.githubusercontent.com/88658331/154787922-388ab1c4-cb55-4fbd-a195-8efccd9a9081.png">
 
