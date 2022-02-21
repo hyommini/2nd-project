@@ -27,12 +27,15 @@
 <br>
 <br>
 <h2 id="시연"> 🎞 구현기능 시연 </h2>
- 5-1 로그인 기능 
+ 5-1 홈화면
+<img width="704" alt="Screen Shot 2022-02-19 at 2 17 16 PM" 
+     src="https://user-images.githubusercontent.com/88658331/154885204-3a19e5f3-8ca5-4f0b-b93a-8b0a4e85799b.png">
+ 5-2 로그인 기능 
 <img width="705" alt="helloworld-login" src="https://user-images.githubusercontent.com/88658331/154787784-c7a8e1cb-d834-485f-8b8b-75b5de142690.png">
- 5-2 today, total 
+ 5-3 today, total 
 <img width="717" alt="helloworld-home-today" 
                 src="https://user-images.githubusercontent.com/88658331/154787887-476be122-b18c-421e-929f-3c439cc84994.png">
- 5-3 프로필 조회, 수정
+ 5-4 프로필 조회, 수정
 <img width="736" alt="helloworld-profile" 
      src="https://user-images.githubusercontent.com/88658331/154787922-388ab1c4-cb55-4fbd-a195-8efccd9a9081.png">
 
