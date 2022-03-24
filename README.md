@@ -8,9 +8,9 @@
 <br>       
            
 ### 📖&nbsp; 2.소스코드
-  * [model](/2nd-project/HelloWorld/src/com/helloworld/vo/)
-  * [view](/2nd-project/HelloWorld/WebContent/)
-  * [controller](/2nd-project/HelloWorld/src/com/helloworld/controller/)
+  * [model](https://github.com/yunhyomin/2nd-project/tree/main/HelloWorld/src/com/helloworld/vo)
+  * [view](https://github.com/yunhyomin/2nd-project/tree/main/HelloWorld/WebContent)
+  * [controller](https://github.com/yunhyomin/2nd-project/tree/main/HelloWorld/src/com/helloworld/controller)
  
 <br><br>
 ### 💾&nbsp; 3.구현ERD
